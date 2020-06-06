@@ -78,5 +78,5 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
   ],
-  pathPrefix: `/taboom-blog-source`,
+  pathPrefix: `/taboom-blog`,
 }
