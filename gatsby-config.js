@@ -8,7 +8,7 @@ module.exports = {
     description: `Блог о разработке ПО и не только.`,
     siteUrl: `https://blog.taboom.ru/`,
     social: {
-      twitter: '',
+      twitter: "",
     },
   },
   plugins: [
