@@ -63,6 +63,10 @@ const SEO = ({ description, lang, meta, title }) => {
       name: `twitter:description`,
       content: metaDescription,
     },
+    {
+      name: `yandex-verification`,
+      content: 'a0158df575c9c255',
+    },
   ]
 
   return (
