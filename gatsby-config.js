@@ -81,7 +81,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-168798171-1',
+        trackingId: "UA-168798171-1",
         head: false,
         anonymize: true,
         respectDNT: true,
@@ -103,5 +103,6 @@ module.exports = {
         defer: false,
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
 }
